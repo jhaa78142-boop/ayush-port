@@ -1,0 +1,29 @@
+{
+  "name": "ayush-portfolio-v6",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "lucide-react": "0.487.0",
+    "motion": "12.23.24",
+    "three": "^0.171.0",
+    "gsap": "^3.12.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.12",
+    "@vitejs/plugin-react": "4.7.0",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.1",
+    "tailwindcss": "4.1.12",
+    "typescript": "5.6.2",
+    "vite": "6.3.5",
+    "@types/three": "^0.171.0"
+  }
+}
